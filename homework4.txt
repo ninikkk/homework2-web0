@@ -1,0 +1,20 @@
+1.Which element is the parent of <h2>User Profile</h2>?
+	<div class="section" id="profile-section">
+
+2.Is .email a sibling of .username?
+	yes
+
+3.Who is the parent of all .post elements?
+	<div class="section" id="posts-section">
+
+4.What are the children of #friends-section?
+	<h2>Friends List</h2>
+        <ul>
+5.Is <footer> a sibling of #profile-section?
+	yes
+
+6.Is .avatar a descendant of #main-container?
+	yes
+
+7.What is the direct child of ul?
+	The two <li> elements.
